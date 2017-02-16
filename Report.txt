@@ -1,0 +1,9 @@
+Arif Doðru 141044014 Final Project
+
+Bu projede:
+  * And, Or, Add, Substract, Set-On-Less-Than,Jump,Branch Equal instructionlarý çalýþmaktadýr.
+  * Ders slaytlarýndan hareketle unit unit olarak tasarlanmýþtýr.
+  * Verilen testbencde sadece clock deðeri artýrýldý.
+  * Ayrýca Unitlerin testbenchleri mevcuttur.
+  * mips_core.v dosyasýnda Deðerleri düzgün okunmasý için ekrana basýlmýþtýr.
+  
